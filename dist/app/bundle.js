@@ -89,7 +89,7 @@
 	                        _react2.default.createElement(
 	                            'h1',
 	                            null,
-	                            'Hello!'
+	                            'Welcome to Reactjs basic web application! '
 	                        )
 	                    )
 	                )
